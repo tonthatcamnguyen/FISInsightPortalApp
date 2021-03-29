@@ -1,0 +1,32 @@
+ const courseStr= 
+  {
+      intro:"Giới thiệu",
+      content:"Nội dung",
+      course:"Khóa học",
+      lesson:"Bài giảng",
+      test:"Bài thi",
+      process:"Tiến trình",
+      myCoure:"Khóa học của tôi",
+      recomentCoure:"Khóa học khuyến nghị",
+      search:"Tìm kiếm",
+      free:"Tự do",
+      censorship:"Kiểm duyệt",
+      discuss:"Trao đổi",
+      note:"ghi chú",
+      reply:"Trả lời",
+      remove:"Xóa",
+      save:"Lưu",
+      edit:"Sửa",
+      register:"Đăng ký",
+      join:"Vào học",
+      watting:"Chờ duyệt...",
+      more:"Xem thêm...",
+      hide:"Ẩn đi...",
+      notFound:"Không tìm thấy khóa học nào cả!",
+      error:"Lỗi",
+      close:"Đóng",
+      failCallAPI:"Không kết nối được tới máy chủ",
+      notNetwork:"Không có kết nối mạng",
+  };
+
+  export default courseStr;
